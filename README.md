@@ -41,15 +41,6 @@ This project implements a Moving Average Crossover Trading Strategy with advance
 4. **LinkedIn Cards**: Compact strategy cards optimized for social sharing
 5. **Comparison Cards**: Side-by-side strategy comparisons
 
-## LinkedIn Sharing Tips
-
-See `ANIMATION_GUIDE.md` for detailed instructions on how to create engaging content for LinkedIn, including:
-
-- Recording animations as videos
-- Taking screenshots of strategy cards
-- Creating compelling post content
-- Using effective hashtags for maximum reach
-
 ## License
 
 [MIT License](LICENSE)
