@@ -40,7 +40,3 @@ This project implements a Moving Average Crossover Trading Strategy with advance
 3. **Strategy Comparisons**: Compare different MA parameters
 4. **LinkedIn Cards**: Compact strategy cards optimized for social sharing
 5. **Comparison Cards**: Side-by-side strategy comparisons
-
-## License
-
-[MIT License](LICENSE)
